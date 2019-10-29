@@ -29,10 +29,10 @@ The picture below will tell thousands words. Please left click / right click + o
 
 |**Parameters**          |**Model 1**|**Model 2**|
 |:----------------------:|:---------:|:---------:|
-|**@7.0 MHz**            |           | 1:1.4     |
+|**@7.0 MHz**            | 1:1.4     | 1:1.4     |
 |**@7.1 MHz**            | 1:1.3     | 1:1.15    |
-|**@7.2 MHz**            |           | 1:1.38    |
-|**VSWR Bandwidth 1:1.5**|           | 250 kHz   |
+|**@7.2 MHz**            | 1:1.6     | 1:1.38    |
+|**VSWR Bandwidth 1:1.5**| 190 kHz   | 250 kHz   |
 
 **Typical Gain and F/B**
 * **Model 1**: 13.0 dBi of forward gain & about 14 dB of F/B
