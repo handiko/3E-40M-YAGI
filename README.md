@@ -15,18 +15,6 @@ The picture below will tell thousands words. Please left click / right click + o
 * Tune the antenna for the lowest VSWR at the center freq of the 40m band, or at any 40m band freq you want. Adjust both end simultaneously.
 
 **Typical VSWR:**
-* **Model 1**:
-  @7.1 Mhz = better than ....
-  @7.0 MHz = better than ....
-  @7.2 MHz = better than ....
-  VSWR bandwidth 1:1.5 = .... 
-
-* **Model 2**: 
-  @7.1 Mhz = better than 1:1.15
-  @7.0 MHz = better than 1:1.4
-  @7.2 MHz = better than 1:1.38
-  VSWR bandwidth 1:1.5 about 250 kHz
-
 |**Parameters**          |**Model 1**|**Model 2**|
 |:----------------------:|:---------:|:---------:|
 |**@7.0 MHz**            | 1:1.4     | 1:1.4     |
