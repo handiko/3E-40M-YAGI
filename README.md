@@ -24,13 +24,13 @@ The picture below will tell thousands words. Please left click / right click + o
 Each of the element is constructed and simulated as a telescopic alumunium tubing. Telescopic taper sizing is consideres as **2 inch dia. alu. tubing at the center and 1/4 inch dia. alu. tubing at the tip** Taper schedule from the center to the tip can be adjusted to the alu. tubing dia. which can be purchased locally.
 **The models are correct only for the taper sizing mentioned above. If you, for example, want to swap the taper sizing with another size, the model still can be constructed and be adjusted to your working freq but will not deliver the performances predicted in my models.**
 
-## Tuning procedure:
+### Tuning procedure:
 * Mount the antenna at the real installation height.
 * **USE A GOOD 1:1 BALUN or CHOKE BALUN** at the feed point.
 * Do the tuning procedure using Antenna Analyzer or SWR Analyzer using 50 Ohm Coax as short & practical as possible. Here, you want to eliminates tuning error caused by the long coax. Therefore, use a short coax.
 * Tune the antenna for the lowest VSWR at the center freq of the 40m band, or at any 40m band freq you want. Adjust both end simultaneously.
 
-**Typical VSWR:**
+### Typical VSWR:
 (derived from simulation)
 
 |**Parameters**          |**Model 1**|**Model 2**|
@@ -40,7 +40,7 @@ Each of the element is constructed and simulated as a telescopic alumunium tubin
 |**@7.2 MHz**            | 1:1.6     | 1:1.38    |
 |**VSWR Bandwidth 1:1.5**| 190 kHz   | 250 kHz   |
 
-**Typical Gain and F/B**
+### Typical Gain and F/B
 * **Model 1**: 13.0 dBi of forward gain & about 14 dB of F/B
 * **Model 2**: 13.2 dBi of forward gain & about 15 dB of F/B 
 
