@@ -15,27 +15,24 @@ The picture below will tell thousands words. Please left click / right click + o
 * Tune the antenna for the lowest VSWR at the center freq of the 40m band, or at any 40m band freq you want. Adjust both end simultaneously.
 
 **Typical VSWR:**
-* 15m band; 1.04:1 at 21.05 MHz
-* 10m band; 1.12:1 at 28.05 MHz
+* **Model 1**: @7.1 Mhz = better than ..... ; @7.0 MHz = better than .... , @7.2 MHz = better than ..... , VSWR bandwidth 1:1.5 = .... 
+* **Model 2**: @7.1 Mhz = better than 1:1.15; @7.0 MHz = better than 1:1.4, @7.2 MHz = better than 1:1.38, VSWR bandwidth 1:1.5 = 250 kHz
 
-**Typical gain:**
-* 15m band (10 m above ground); 11.5 dBi
-* 10m band (10 m above ground); 12.4 dBi
+**Typical Gain and F/B**
+* **Model 1**: 
+* **Model 2**: 13.2 dBi of forward gain & about 15 dB of F/B 
 
-## Simulation Results (15m Band)
+## Simulation Results (Model 1)
 ![](./VSWR15.png)
 ![](./patt15.png)
 
-## Simulation Results (10m Band)
+## Simulation Results (Model 2)
 ![](./VSWR10.png)
 ![](./patt10.png)
 
 ## Propagation Map Simulation (VOACAP Online, May 2019)
-**15m band at 9 UTC**
+(both models are virtually the same)
 ![](./prop15peak.png)
-
-**10m band at 11 UTC**
-![](./prop10peak.png)
 
 ## Contributing
 1. Fork it [https://github.com/handiko/3E-40M-YAGI/fork](https://github.com/handiko/3E-40M-YAGI/fork)
