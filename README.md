@@ -8,6 +8,18 @@ The **first model** is optimized for the **boomlength of 16 meters** while keep 
 The picture below will tell thousands words. Please left click / right click + open in new tab for the full view of the picture.
 ![](./yagi-diagram.png)
 
+|**Parameters**          |**Model 1**|**Model 2**      |
+|:----------------------:|:---------:|:---------------:|
+|**Boomlength**          |     | 17 m    |
+|**Ref - Driven**        | 1:1.3     | 21.23 m         |
+|**Driven - Director**   | 1:1.6     | 20.87 m (adjust)|
+|**Ref (fullsize)**      | 190 kHz   | 21.23 m         |
+|**Driven (fullsize)**   | | 20.87 m (adjust)|
+|**Director (fullsize)** | | 18.86  m        |
+|**tip diameter**        | | 6 mm (1/4 inch) |
+|**center diameter**     | | 5 cm (2 inch)   |
+|**boom diameter**       | | 5 cm (2 inch)   |
+
 **Tuning procedure:**
 * Mount the antenna at the real installation height.
 * **USE A GOOD 1:1 BALUN or CHOKE BALUN** at the feed point.
