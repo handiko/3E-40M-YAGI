@@ -38,7 +38,7 @@ The picture below will tell thousands words. Please left click / right click + o
 ![](./model2_sim2_VSWR.png)
 ![](./model2_sim3_patt.png)
 
-## Propagation Map Simulation (VOACAP Online, Oct 2019, 80 W of transmit power)
+## Propagation Map Simulation (VOACAP Online, Oct 2019 at 20 UTC, 80 W of transmit power)
 (both models are virtually the same)
 ![](./prop.png)
 
