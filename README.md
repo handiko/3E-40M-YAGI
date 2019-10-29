@@ -1,7 +1,7 @@
-# 10/15m Band Portable Yagi Antenna
-Dualband portable 2 elements yagi antenna  for 10m and 15m CW.
-The idea behind it is simple; We construct a 2-elements Yagi antenna for 15m band, then add 10m band 2 elements yagi into it so the driven element for the 10m band is open-sleeve-coupled from the 15m band driven element. This method of feeding will results of an easy-to-construct-and-feed dualband yagi antenna at the expense of narrower bandwidth at the higher band.
-The narrower bandwidth is not a problem since the usage at 10m band is intended for CW portion only.
+# 3 Elements Fullsize Yagi Antenna for 40m Band
+Here is presented 2 models of 3 elements fullsize yagi antenna for 40m band.
+The first model is optimized for lowest SWR while keep maintain the boom length below .... meters. The second model is optimized for the compact boomlength of ... meters while keep maintain good VSWR, gain, and F/B ratio otherwise. All models are simulated for the installation height of about 24 meters using 4nec-2 software package.
+
 
 ![](./panoramic.png)
 
