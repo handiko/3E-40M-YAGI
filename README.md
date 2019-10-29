@@ -39,16 +39,18 @@ The picture below will tell thousands words. Please left click / right click + o
 * **Model 2**: 13.2 dBi of forward gain & about 15 dB of F/B 
 
 ## Simulation Results (Model 1)
-![](./VSWR15.png)
-![](./patt15.png)
+![](./model1_sim1.png)
+![](./model1_sim2_VSWR.png)
+![](./model1_sim3_patt.png)
 
 ## Simulation Results (Model 2)
-![](./VSWR10.png)
-![](./patt10.png)
+![](./model2_sim1.png)
+![](./model2_sim2_VSWR.png)
+![](./model2_sim3_patt.png)
 
 ## Propagation Map Simulation (VOACAP Online, May 2019)
 (both models are virtually the same)
-![](./prop15peak.png)
+![](./prop.png)
 
 ## Contributing
 1. Fork it [https://github.com/handiko/3E-40M-YAGI/fork](https://github.com/handiko/3E-40M-YAGI/fork)
