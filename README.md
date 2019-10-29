@@ -1,7 +1,6 @@
 # 3 Elements Fullsize Yagi Antenna for 40m Band
 Here is presented 2 models of 3 elements fullsize yagi antenna for 40m band.
-The first model is optimized for lowest SWR while keep maintain the boom length below .... meters. The second model is optimized for the compact boomlength of ... meters while keep maintain good VSWR, gain, and F/B ratio otherwise. All models are simulated for the installation height of about 24 meters using 4nec-2 software package.
-
+The first model is optimized for the compact boomlength of 16 meters while keep maintain good VSWR < 1:1.5, gain, and F/B ratio. The second model is optimized for lowest SWR while keep maintain the boom length below 18 meters otherwise. All models are simulated for the installation height of about 24 meters using 4nec-2 software package.
 
 ![](./panoramic.png)
 
