@@ -9,11 +9,10 @@ The picture below will tell thousands words. Please left click / right click + o
 ![](./yagi-diagram.png)
 
 **Tuning procedure:**
-* Mount the antenna at the real installation height, or at least 7 m above the ground.
-* Tune the 15 m band driven element for the lowest VSWR at 21.05 MHz. Adjust both end simultaneously.
-* Tune the 10 m band driven element for the lowest VSWR at 28.05 MHz. Adjust both end simultaneously.
-* Back to 15 m band and check if whether the VSWR shift after 10 m band tuning. If so, then re-adjust the 15 m band driven element.
-* Again, back to 10 m band and check again. Repeat this procedure until VSWR is satifying at both band.
+* Mount the antenna at the real installation height.
+* **USE A GOOD 1:1 BALUN or CHOKE BALUN** at the feed point.
+* Do the tuning procedure using Antenna Analyzer or SWR Analyzer using 50 Ohm Coax as short & practical as possible. Here, you want to eliminates tuning error caused by the long coax. Therefore, use a short coax.
+* Tune the antenna for the lowest VSWR at the center freq of the 40m band, or at any 40m band freq you want. Adjust both end simultaneously.
 
 **Typical VSWR:**
 * 15m band; 1.04:1 at 21.05 MHz
