@@ -11,8 +11,8 @@ The picture below will tell thousands words. Please left click / right click + o
 |**Parameters**          |**Model 1**|**Model 2**      |
 |:----------------------:|:---------:|:---------------:|
 |**Boomlength**          |     | 17 m    |
-|**Ref - Driven**        | 1:1.3     | 21.23 m         |
-|**Driven - Director**   | 1:1.6     | 20.87 m (adjust)|
+|**Ref - Driven**        | 1:1.3     | 9,76 m          |
+|**Driven - Director**   | 1:1.6     | 7,24 m          |
 |**Ref (fullsize)**      | 190 kHz   | 21.23 m         |
 |**Driven (fullsize)**   | | 20.87 m (adjust)|
 |**Director (fullsize)** | | 18.86  m        |
