@@ -54,6 +54,9 @@ Each of the element is constructed and simulated as a telescopic alumunium tubin
 ![](./model2_sim2_VSWR.png)
 ![](./model2_sim3_patt.png)
 
+## Real Life Built Result (Model 2)
+![](./merged_photo.png)
+
 ## Propagation Map Simulation (VOACAP Online, Oct 2019 at 20 UTC, 80 W of transmit power)
 (both models are virtually the same)
 ![](./prop.png)
