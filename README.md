@@ -40,6 +40,8 @@ Each of the element is constructed and simulated as a telescopic alumunium tubin
 |**@7.2 MHz**            | 1:1.6     | 1:1.38    |
 |**VSWR Bandwidth 1:1.5**| 190 kHz   | 250 kHz   |
 
+*model 2-rev basically is the same as the model 2
+
 ### Typical Gain and F/B
 * **Model 1**: 13.0 dBi of forward gain & about 14 dB of F/B
 * **Model 2**: 13.2 dBi of forward gain & about 15 dB of F/B 
