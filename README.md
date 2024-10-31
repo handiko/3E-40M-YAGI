@@ -8,17 +8,17 @@ The **first model** is optimized for the **boomlength of 16 meters** while keep 
 The picture below will tell thousands words. Please left click / right click + open in new tab for the full view of the picture.
 ![](./yagi-diagram.png)
 
-|**Parameters**          |**Model 1**      |**Model 2**      |
-|:----------------------:|:---------------:|:---------------:|
-|**Boomlength**          | 16 m            | 17 m            |
-|**Ref - Driven**        | 7.36 m          | 9.76 m          |
-|**Driven - Director**   | 8.64 m          | 7.24 m          |
-|**Ref (fullsize)**      | 22.63 m         | 21.23 m         |
-|**Driven (fullsize)**   | 20.96 m (adjust)| 20.87 m (adjust)|
-|**Director (fullsize)** | 19.41 m         | 18.86  m        |
-|**tip diameter**        | 6 mm (1/4 inch) | 6 mm (1/4 inch) |
-|**center diameter**     | 5 cm (2 inch)   | 5 cm (2 inch)   |
-|**boom diameter**       | 5 cm (2 inch)   | 5 cm (2 inch)   |
+|**Parameters**          |**Model 1**      |**Model 2**      |**Model 2.rev**  |
+|:----------------------:|:---------------:|:---------------:|:---------------:|
+|**Boomlength**          | 16 m            | 17 m            | 17 m            |
+|**Ref - Driven**        | 7.36 m          | 9.76 m          | 9.76 m          |
+|**Driven - Director**   | 8.64 m          | 7.24 m          | 7.24 m          |
+|**Ref (fullsize)**      | 22.63 m         | 21.23 m         | 21.46 m connected to boom |
+|**Driven (fullsize)**   | 20.96 m (adjust)| 20.87 m (adjust)| 20.77 m (adjust)|
+|**Director (fullsize)** | 19.41 m         | 18.86  m        | 18.57  m connected to boom |
+|**tip diameter**        | 6 mm (1/4 inch) | 6 mm (1/4 inch) | 1/2 inch        |
+|**center diameter**     | 5 cm (2 inch)   | 5 cm (2 inch)   | 1-3/4 inch      |
+|**boom diameter**       | 5 cm (2 inch)   | 5 cm (2 inch)   | 3 inch          |
 
 ### About The Telescopic Element sizing
 Each of the element is constructed and simulated as a telescopic alumunium tubing. Telescopic taper sizing is consideres as **2 inch dia. alu. tubing at the center and 1/4 inch dia. alu. tubing at the tip** Taper schedule from the center to the tip can be adjusted to the alu. tubing dia. which can be purchased locally.
